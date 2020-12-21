@@ -6,7 +6,7 @@ The project was carried out by:
 * Oliver Behrens, s163866
 * Tue Thomsen, s163852
 * Emil Lindegaard, s165016
-* Stine Poulsen, s153609
+* Stine Poulsen, s153696
 
 ### Abstract from research paper: 
 This paper investigates anomaly detection in wooden structures using multivariate time series. The goal was, with no ground truth, to predict when anomalies occur using unsupervised learning methods. The performance of three different models was investigated: An auto-encoder utilizing GRU layers reconstructing a 24 hour data sequence, a transformer predicting
