@@ -17,7 +17,7 @@ the next hour given the 24 previous hours, and the DeepAnT, also predicting the 
 The project consist of four iPython notebooks, that contain the three different models and a notebook for evaluating the models and compare their performance with respect to each other.
 
 The data used troughout the project is not uploaded to Github since this is not publicly available. 
-* Model folder: Contains the trained models along with threshold values for anomaly detection in .pt files 
+* Model folder: Contains the trained models in .pt files along with threshold values for anomaly detection in .csv files
 * Code folder: Contains the four notebooks(.ipynb files)
 
 
